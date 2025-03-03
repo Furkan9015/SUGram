@@ -1,4 +1,4 @@
-readme_content = """# SUGram - CS 310 Project (Group 6)
+# SUGram - CS 310 Project (Group 6)
 
 ## Application Overview
 SUGram is a social platform designed to enhance connectivity among Sabancı University students. It facilitates networking, communication, and community engagement, allowing students to expand their circles, find study partners, join campus events, and exchange valuable insights.
@@ -48,15 +48,3 @@ SUGram is the **first social media platform dedicated to connecting all Sabancı
 - **Scalability & Performance:** Efficient database management and server optimization
 - **Security:** Implementing a secure authentication system to protect user data and privacy
 - **UI/UX Design:** Ensuring an intuitive and engaging user interface
-
-## License
-[MIT License](LICENSE)
-
----
-*CS 310 - Sabancı University*
-"""
-
-with open("README.md", "w", encoding="utf-8") as file:
-    file.write(readme_content)
-
-print("README.md file has been created successfully.")
