@@ -28,7 +28,7 @@ SUGram is designed for all Sabancı University students, including:
 - **Social interactions** such as liking, commenting, and sharing content
 - **Direct messaging** and post forwarding for private conversations
 
-## Technology Stack
+## Platform
 - **Framework:** Flutter
 - **IDE:** Android Studio
 - **Programming Language:** Dart
