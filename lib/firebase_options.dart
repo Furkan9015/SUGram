@@ -7,12 +7,12 @@ class DefaultFirebaseOptions {
   static FirebaseOptions get currentPlatform {
     // Default options for development
     return const FirebaseOptions(
-      apiKey: 'AIzaSyAuQH_8Bu3J0lat6seHvnSGgkfZ_QmR6HY',
-      appId: '1:1049215280322:web:b84bc7cbed65ace4a5475b',
-      messagingSenderId: '1049215280322',
-      projectId: 'sugram-66929',
-      storageBucket: 'gs://sugram-66929.firebasestorage.app ',
-      authDomain: 'sugram-66929.firebaseapp.com',
+      apiKey: 'demo',
+      appId: 'demo',
+      messagingSenderId: 'demo',
+      projectId: 'demo',
+      storageBucket: 'demo',
+      authDomain: 'demo',
     );
   }
 }
